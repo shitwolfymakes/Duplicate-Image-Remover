@@ -14,13 +14,13 @@ IS_KEEPING = False
 
 def handle_args():
     if len(sys.argv) < 2:
-        print("USAGE: main.py [-k] <absolute/path/to/file>")
+        print("USAGE: dupir.py [-k] <absolute/path/to/file>")
         exit(1)
     elif "-k" in sys.argv:
         global IS_KEEPING
         IS_KEEPING = True
     elif len(sys.argv) > 3:
-        print("USAGE: main.py [-k] <absolute/path/to/file>")
+        print("USAGE: dupir.py [-k] <absolute/path/to/file>")
         exit(1)
     #end if/elif
 

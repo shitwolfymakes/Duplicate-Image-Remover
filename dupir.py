@@ -7,7 +7,7 @@ import re
 
 from pathlib import Path
 
-TEMP_FOLDER = Path.cwd() / "temp"
+TEMP_FOLDER = Path.cwd() / "dupir_temp"
 DUP_IMG_REGEX = re.compile(r"^.* \([0-9]*\)")
 IS_KEEPING = False
 

@@ -2,7 +2,6 @@
 
 
 ![GitHub All Releases](https://img.shields.io/github/downloads/shitwolfymakes/Duplicate-Image-Remover/total?color=dark%20green&style=plastic)
-![GitHub](https://img.shields.io/github/license/shitwolfymakes/Duplicate-Image-Remover/?style=plastic)  
 
 Remove duplicate media files from a folder quickly and easily. Testing done on a library of nearly 10k images and videos
 

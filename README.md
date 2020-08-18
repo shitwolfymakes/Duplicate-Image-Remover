@@ -13,3 +13,4 @@ Remove duplicate media files from a folder quickly and easily. Testing done on a
 ## Notes:
  - You must run this with the absolute path. I could not get this to work using relative paths
  - This does not support subfolders, make sure all files are in one folder, or go one subfolder at a time
+ - Duplicates are moved to `Duplicate-Image-Remover/dupir_temp/` during execution
